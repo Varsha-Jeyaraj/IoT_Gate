@@ -12,4 +12,4 @@ To develop an IoT-based vehicle entry system that ensures authorized access with
   - Scalability: Adaptable for use in various settings, from small residential apartments to large high-security zones or toll gates.
 
 ### Document:
-[IoT Project.pdf](https://github.com/user-attachments/files/19145788/IoT.Project.pdf)
+[IoT Project.pdf](https://github.com/user-attachments/files/19145834/IoT.Project.pdf)
